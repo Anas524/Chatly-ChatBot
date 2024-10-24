@@ -1,0 +1,7 @@
+to start the chatcode in localhost 
+
+type in terminal
+npm run dev 
+
+and open browser and search
+localhost:3000
